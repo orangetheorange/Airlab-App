@@ -1,7 +1,8 @@
 # AirLab — Closed Alpha
 
-> The fastest way for students to write, share, and study notes — together.
+<img width="1935" height="813" alt="image" src="https://github.com/user-attachments/assets/4a804369-b039-4298-8837-b1091963ced2" />
 
+#
 🌐 **Live app:** [www.air-lab.app](https://www.air-lab.app)
 💻 **Source:** [github.com/orangetheorange/Airlab-App](https://github.com/orangetheorange/Airlab-App)
 📧 **Support:** support.airlab@gmail.com
