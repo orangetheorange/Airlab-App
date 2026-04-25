@@ -12,12 +12,11 @@
 # Special Thanks
 
 ### Special thanks to team-selected testers:
-
-- @MrCohen
-- @comPY-V2
-- @Jolyne_xoxo
-- @colinnt
-- @bill090
+- [@MrCohen](https://github.com/MrCohen)
+- [@comPY-V2](https://github.com/comPY-V2)
+- [@Jolyne_xoxo](https://github.com/Jolyne_xoxo)
+- [@colinnt](https://github.com/colinnt)
+- [@bill090](https://github.com/bill090)
 
 ### Thank you for submitting feedbacks to initialize this project
 
