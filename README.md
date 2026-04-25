@@ -8,6 +8,22 @@
 
 ---
 
+
+# Special Thanks
+
+### Special thanks to team-selected testers:
+
+@MrCohen
+
+@comPY-V2
+
+@Jolyne_xoxo
+
+@colinnt
+
+### Thank you for submitting feedbacks to initialize this project
+
+
 ## What is AirLab?
 
 AirLab is a collaborative study-notes platform built for students, study groups, and classrooms. Think of it as a shared notebook with rich text, organized subjects, real-time group chat, and an AI study companion — all designed around the way real classes actually work.
