@@ -75,6 +75,8 @@ Hit the profile avatar (left-bottom) → **Contact support**. That opens an emai
 
 If support isn't loading or you're locked out: email **support.airlab@gmail.com** directly.
 
+Or, submit a new Issue to this repository: https://github.com/orangetheorange/Airlab-App/issues/new
+
 ### What not to test
 
 - Payment / upgrade flows — disabled during alpha; every workspace is treated as PRO.
