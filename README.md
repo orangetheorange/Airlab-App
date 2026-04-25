@@ -67,7 +67,7 @@ During the alpha:
 
 ### Reporting issues
 
-Hit the profile avatar (top-right) → **Contact support**. That opens an email pre-filled with a bug-report template; just fill in what you were doing, what happened, and what you expected. Replies usually come within a day or two during alpha hours.
+Hit the profile avatar (left-bottom) → **Contact support**. That opens an email pre-filled with a bug-report template; just fill in what you were doing, what happened, and what you expected. Replies usually come within a day or two during alpha hours.
 
 If support isn't loading or you're locked out: email **orange.yichengyu.psn@gmail.com** directly.
 
