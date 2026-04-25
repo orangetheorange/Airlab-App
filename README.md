@@ -4,7 +4,7 @@
 
 🌐 **Live app:** [www.air-lab.app](https://www.air-lab.app)
 💻 **Source:** [github.com/orangetheorange/Airlab-App](https://github.com/orangetheorange/Airlab-App)
-📧 **Support:** orange.yichengyu.psn@gmail.com
+📧 **Support:** support.airlab@gmail.com
 
 ---
 
@@ -69,7 +69,7 @@ During the alpha:
 
 Hit the profile avatar (left-bottom) → **Contact support**. That opens an email pre-filled with a bug-report template; just fill in what you were doing, what happened, and what you expected. Replies usually come within a day or two during alpha hours.
 
-If support isn't loading or you're locked out: email **orange.yichengyu.psn@gmail.com** directly.
+If support isn't loading or you're locked out: email **support.airlab@gmail.com** directly.
 
 ### What not to test
 
@@ -105,7 +105,7 @@ During closed alpha:
 - We do not sell, share, or analyze your notes for advertising purposes.
 - Authentication is handled by Appwrite Cloud; their infrastructure receives your email and password.
 - The AI panel is currently disabled; when enabled, prompts and note context will be sent to the configured OpenAI-compatible endpoint to generate responses.
-- You can request full deletion of your account and all associated data by emailing **orange.yichengyu.psn@gmail.com**.
+- You can request full deletion of your account and all associated data by emailing **support.airlab@gmail.com**.
 
 A formal Privacy Policy and Terms of Service will publish before open beta.
 
@@ -115,4 +115,4 @@ Closed alpha access is granted under a tester agreement. The source repository's
 
 ---
 
-**Questions, bugs, ideas?** Email **orange.yichengyu.psn@gmail.com** or use **Contact support** in the app.
+**Questions, bugs, ideas?** Email **support.airlab@gmail.com** or use **Contact support** in the app.
