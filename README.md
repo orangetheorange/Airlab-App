@@ -13,15 +13,11 @@
 
 ### Special thanks to team-selected testers:
 
-@MrCohen
-
-@comPY-V2
-
-@Jolyne_xoxo
-
-@colinnt
-
-@bill090
+- @MrCohen
+- @comPY-V2
+- @Jolyne_xoxo
+- @colinnt
+- @bill090
 
 ### Thank you for submitting feedbacks to initialize this project
 
