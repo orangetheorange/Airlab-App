@@ -25,6 +25,10 @@ During the alpha:
 - **Translation** is built but disabled in the UI for the same reason.
 - Data lives in a managed Postgres database hosted on DigitalOcean. Notes, workspaces, organizations, and chat history persist across deploys.
 
+⚠️ Disclaimer ⚠️
+
+The purpose of closed alpha is to debug and improve the application, not to experience pro features for free, the tester needs to actively debug and submit feedback / suggestions through the support page in the app. If a tester does not submit any feedback or comments within a period of time, he will be removed from the tester list. 
+
 ## Features
 
 ### Notes
