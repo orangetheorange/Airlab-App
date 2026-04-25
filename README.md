@@ -9,7 +9,7 @@
 ---
 
 
-# Special Thanks
+## Special Thanks
 
 ### Special thanks to team-selected testers:
 - [@MrCohen](https://github.com/MrCohen)
