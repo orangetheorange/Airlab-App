@@ -1,3 +1,9 @@
+## Website status: 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2kusj.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+
+
+
 # AirLab — Closed Alpha
 
 <img width="1935" height="813" alt="image" src="https://github.com/user-attachments/assets/4a804369-b039-4298-8837-b1091963ced2" />
