@@ -7,6 +7,8 @@
 
 ## Website status: [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2kusj.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
+https://status.air-lab.app/
+
 #
 🌐 **Live app:** [www.air-lab.app](https://www.air-lab.app)
 💻 **Source:** [github.com/orangetheorange/Airlab-App](https://github.com/orangetheorange/Airlab-App)
